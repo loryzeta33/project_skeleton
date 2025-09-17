@@ -14,5 +14,6 @@ dist/
 # Pytest cache
 .pytest_cache/
 
-# Pycharm
+# Other
 .idea
+.DS_Store
